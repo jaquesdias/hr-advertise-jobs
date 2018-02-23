@@ -40,4 +40,5 @@ Tests
 ------------
 
 Run the test suite
+
 `rspec`
