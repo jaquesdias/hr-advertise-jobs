@@ -1,7 +1,7 @@
 class CampaignsController < ApplicationController
   def index
-  end
+    campaigns = Campaign.all
 
-  def show
+    render json: campaigns
   end
 end
