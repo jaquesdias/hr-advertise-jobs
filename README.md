@@ -31,3 +31,13 @@ Create seeds for campaign examples
 Start the Rails application
 
 `rails s`
+
+Campaigns output
+
+Access `http://localhost:3000/campaigns` on your browser
+
+Tests
+------------
+
+Run the test suite
+`rspec`
