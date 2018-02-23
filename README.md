@@ -24,6 +24,10 @@ Create Database and tables:
 
 `rails db:setup db:migrate`
 
+Create seeds for campaign examples
+
+`rails db:seed`
+
 Start the Rails application
 
 `rails s`
